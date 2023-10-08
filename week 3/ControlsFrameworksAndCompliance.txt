@@ -54,3 +54,4 @@ On May 12, 2021, President Joe Biden released an executive order related to impr
 Key takeaways
 In this reading you learned more about controls, frameworks, and compliance. You also learned how they work together to help organizations maintain a low level of risk.
 As a security analyst, it's important to stay up-to-date on common frameworks, controls, and compliance regulations and be aware of changes to the cybersecurity landscape to help ensure the safety of both organizations and people.
+
